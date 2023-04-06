@@ -1,3 +1,5 @@
+## <b>圣牛！(Shèng niú!), पवित्र गाय! (Pavitr gaay!), ¡Santo cielo! or ¡Vaca sagrada!, بقرة مقدسة! (Baqratan muqaddasa!), পবিত্র গাভী! , Святая корова! , <b>Santa vaca!, Sapi suci!, پاک گائے! (Pak gaaye!), 聖なる牛！(Seinaru ushi!), Heilige Kuh!, ਪਵਿੱਤਰ ਗਈ! (Pavitara ga'ī!), Sapi suci!, పవిత్ర ఆవు! (Pavitra aavu!), Kutsal inek!, 성스러운 소! , पवित्र गाय! , ¡Santo cielo! or ¡Vaca sagrada!, Sainte vache!, Heilige Kuh!, Santa mucca!, Santa vaca!, Heilige koe!, Святая корова! (Svyataya korova!), 圣牛！(Shèng niú!), 聖なる牛！, 성스러운 소! , Holy Cow!</b>
+
 # <b>OpenSource Heaven</b> 🌟💻🚀
 ## <i>The repository to <b>collect all the tools, ideas, and strategies necessary</b> to make Heaven a place on Earth!</i>
 
@@ -48,10 +50,4 @@ Multimodal machine learning is a promising field of research that aims to improv
 One of the challenges in multimodal machine learning is precisely matching the timing and synchronization of different modalities, such as vision and auditory, to correctly correlate them. However, advances in technology and research have made it possible to accurately synchronize data from multiple modalities, which is opening up new possibilities for the development of more advanced AI systems.
 
 In summary, applying multimodal machine learning to AI systems is a promising approach that can lead to more robust and human-like capabilities. While challenges exist, such as correctly synchronizing data from different modalities, continued research and development in this field can overcome these challenges and pave the way for more advanced AI systems in the future.
-
-
-## <b>圣牛！(Shèng niú!), पवित्र गाय! (Pavitr gaay!), ¡Santo cielo! or ¡Vaca sagrada!, بقرة مقدسة! (Baqratan muqaddasa!), পবিত্র গাভী! , Святая корова! ,</b>
-## <b>Santa vaca!, Sapi suci!, پاک گائے! (Pak gaaye!), 聖なる牛！(Seinaru ushi!), Heilige Kuh!, ਪਵਿੱਤਰ ਗਈ! (Pavitara ga'ī!), Sapi suci!, పవిత్ర ఆవు! (Pavitra aavu!), Kutsal inek!, 성스러운 소! , पवित्र गाय! , ¡Santo cielo! or ¡Vaca sagrada!, Sainte vache!,</b>
-## <b>Heilige Kuh!, Santa mucca!, Santa vaca!, Heilige koe!, Святая корова! (Svyataya korova!), 圣牛！(Shèng niú!), 聖なる牛！, 성스러운 소! , Holy Cow!</b>
-
 
