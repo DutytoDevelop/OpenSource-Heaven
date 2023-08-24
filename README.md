@@ -6,7 +6,10 @@
 # Donate to the [Kickstarter](http://LINK) 💰🤝🎁
 
 # Jotting Down Ideas 📝💡🤔
-- Heaven can be a place on Earth, we just need to all coordinate together  in order to come up with the tools, procedures, and plans to integrate the best
+- Heaven can be a place on Earth, we just need to all coordinate together  in order to come up with the tools, procedures, and plans to integrate the best. 
+- Innovation Project Development Plan: 
+  + Special services and programs developed per individual which would provide automation for the individual that improves daily life for them. 
+  + For the individual's country of residence, approved data will be advertised to the individual in an efficient, quick manner, which can then be collected for the country and analyzed to expedite helpful changes for that country. 
 
 ## Mottos to Catch Everyone's Attention
 
